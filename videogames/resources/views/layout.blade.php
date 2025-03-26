@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Games @yield('title')</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Games Listado de Videojuegos</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
-
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
